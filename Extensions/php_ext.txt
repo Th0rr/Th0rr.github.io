@@ -1,0 +1,17 @@
+.php
+.php3
+.php4
+.php5
+.phtml
+.php7
+.phps
+.phpt
+.inc
+.class.php
+.module
+.install.php
+.plugin.php
+.html
+.htm
+.tpl
+.cgi
